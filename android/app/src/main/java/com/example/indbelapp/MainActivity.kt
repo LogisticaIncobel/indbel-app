@@ -1,3 +1,6 @@
-package com.example.indbelapp
+package com.example.indbelapp;
 
-class MainActivity
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
